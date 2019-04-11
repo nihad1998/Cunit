@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/sample.dir/sum_test.c.o  -o bin/sample -rdynamic -lcunit 

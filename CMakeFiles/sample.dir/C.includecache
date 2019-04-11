@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nihad/Desktop/cmake/calculator.c
+calculator.h
+/home/nihad/Desktop/cmake/calculator.h
+
+/home/nihad/Desktop/cmake/calculator.h
+stdio.h
+-
+string.h
+-
+
+/home/nihad/Desktop/cmake/sum_test.c
+CUnit/Basic.h
+/home/nihad/Desktop/cmake/CUnit/Basic.h
+CUnit/CUnit.h
+/home/nihad/Desktop/cmake/CUnit/CUnit.h
+calculator.c
+/home/nihad/Desktop/cmake/calculator.c
+

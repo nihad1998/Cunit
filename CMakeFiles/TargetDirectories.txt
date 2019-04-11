@@ -1,0 +1,4 @@
+/home/nihad/Desktop/cmake/CMakeFiles/test.dir
+/home/nihad/Desktop/cmake/CMakeFiles/edit_cache.dir
+/home/nihad/Desktop/cmake/CMakeFiles/rebuild_cache.dir
+/home/nihad/Desktop/cmake/CMakeFiles/sample.dir
